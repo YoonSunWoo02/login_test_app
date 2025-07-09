@@ -206,7 +206,7 @@ class HomeScreen extends StatelessWidget {
           ),
         ],
       ),
-      body: Center(child: Text("로그인 성공! 홈 화면입니다 반갑습니다.")),
+      body: Center(child: Text("로그인 성공! 홈 화면입니다 반갑습니다 깔깔.")),
     );
   }
 }
